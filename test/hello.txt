@@ -1,0 +1,3 @@
+hello,my friend,my name is chenlong,what's your name?
+i am from china,beijing,i am 25 year old,how old are you?
+i am very fine,thank you,
